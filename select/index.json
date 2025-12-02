@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "こんな命がなければ",
+  "base_artist": "月詠み",
+  "createdAt": "2025-12-02T17:21:23.069335Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "こんな命がなければ - If there is not such a life",
+      "artist": "Tsukuyomi",
+      "has_synced": true,
+      "path": "select/01_こんな命がなければ_-_If_there_is_not_such_a_life_Tsukuyomi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "こんな命がなければ",
+      "artist": "Tsukuyomi",
+      "has_synced": true,
+      "path": "select/02_こんな命がなければ_Tsukuyomi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "こんな命がなければ",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_こんな命がなければ_月詠み.txt"
+    }
+  ]
+}
